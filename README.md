@@ -9,5 +9,5 @@ Skeleton Esp Stiff-----
 
 ---------------------------
 Skeleton Esp Normal -----
-![Roblox_VR_Screenshot_2022 12 31_-_07 11 42 90-removebg-preview](https://user-images.githubusercontent.com/49299203/210136295-5faa221e-6771-4cf1-9451-d40768bbf438.png)
+![image-removebg-preview (9)](https://user-images.githubusercontent.com/49299203/210136377-209199d4-6956-46f5-b518-702d218b75cb.png)
 
