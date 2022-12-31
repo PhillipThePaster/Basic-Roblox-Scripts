@@ -2,7 +2,12 @@ Screenshots Might look different then when you use the script
 
 
 ##
+----------World Visuals
+![image](https://user-images.githubusercontent.com/49299203/210136788-21c0d2d1-cd06-453e-afcb-932cb0527926.png)
 
+
+
+------------Esp section
 
 Roblox Name esp-----
 ![image-removebg-preview (13)](https://user-images.githubusercontent.com/49299203/210136707-213f55c2-99a3-4b7e-b656-af4cbe24e45c.png)
